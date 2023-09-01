@@ -2,7 +2,7 @@
 Repo for students to practice with Git and the [fork and pull](https://reflectoring.io/github-fork-and-pull/) workflow
 
 # Graduates
-
+<!-- foo -->
 <!-- EXAMPLE --> 
 
 ## Matthew Krupczak
